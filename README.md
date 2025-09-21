@@ -139,7 +139,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=StarKnightt/prasendev&type=Date)](https://www.star-history.com/#StarKnightt/prasendev&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xenoncommits/portfolio2025&type=Date)](https://www.star-history.com/#xenoncommits/portfolio2025&Date)
 
 
 ## 🙏 Acknowledgments
@@ -148,9 +150,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Framer Motion](https://www.framer.com/motion/) for animations
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Next.js](https://nextjs.org/) for the framework
-
-## 📧 Contact
-
-Your Name - [@Prasenjit](https://twitter.com/Star_Knight12)
-
-Project Link: [Try it here](https://prasen.dev)
