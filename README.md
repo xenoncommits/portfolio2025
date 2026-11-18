@@ -41,7 +41,19 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser. The development server listens on all interfaces so it can also be previewed through a forwarded port.
+
+## GitHub Pages
+
+The `Deploy to GitHub Pages` workflow builds the site as a static export and deploys it whenever changes are pushed to `main`. Enable **Settings → Pages → Build and deployment → GitHub Actions** in the repository to activate deployments. The project site will be available at `https://xenoncommits.github.io/portfolio2025/`.
+
+To build the static export locally, run:
+
+```bash
+npm run build:github-pages
+```
+
+The generated site is written to the `out` directory.
 
 ## 🔧 Configuration
 
